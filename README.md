@@ -2,7 +2,7 @@
 SQL Injection Attack, Querying the Database Type and Version on MySQL and Microsoft
 
 **Report ID:** PS-LAB-004  
-**Author:** Abhiram (Abhi)  
+**Author:** Venu Kumar (Venu)  
 **Date:** February 02, 2026  
 **Lab Version:** PortSwigger Web Security Academy – SQL Injection Lab (Apprentice Level)
 
