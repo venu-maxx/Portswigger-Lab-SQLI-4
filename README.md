@@ -72,7 +72,7 @@ Page content includes product table with extra row displaying the database versi
 
 Proof of Error (Injection Test):
 
-![Proof of Error]()
+![Proof of Error](https://github.com/venu-maxx/Portswigger-Lab-SQLI-4/blob/d666c487f0ea59056229d27c5887f10b6e54b2dd/4%20Proof%20of%20SQL%20Injection%20Error.png)
 Figure 1: Database error after injecting single quote ('), confirming lack of input sanitization and MySQL/MSSQL database.
 
 Proof of Successful Exploitation:
