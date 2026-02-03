@@ -77,7 +77,7 @@ Figure 1: Database error after injecting single quote ('), confirming lack of in
 
 Proof of Successful Exploitation:
 
-![Proof of Successful Exploitation]()
+![Proof of Successful Exploitation](https://github.com/venu-maxx/Portswigger-Lab-SQLI-4/blob/5307bde99eef6571443492e935c34a37d9827f3a/4%20Proof%20of%20Successful%20Exploitation.png)
 Figure 2: Database version string displayed in the product listing after the payload ' UNION SELECT @@version, NULL#, confirming successful query.
 
 Lab Solved:
